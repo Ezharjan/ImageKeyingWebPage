@@ -15,13 +15,6 @@ Magic-Matting旨在解决只想简单的抠个图而不想开Ps这么个严重�
 7. ctrl/command + delete/backspace 对当前选取进行扣除（显示时是以白色像素进行填充，下载后的图片是以透明像素进行填充）
 8. 图片导出（PNG）及下载
 
-### 实际测试
-![image](https://github.com/todaylg/Magic-Matting/blob/master/introduceImg/before.jpg)
-
-![image](https://github.com/todaylg/Magic-Matting/blob/master/introduceImg/after.png)
-
-
-效果还并不理想，更适合对偏纯色背景的图案进行抠图（亚可真可爱~）
 
 ### Todo
 - [ ] 限制选取范围
