@@ -1,6 +1,5 @@
 # matting-in-Frontend【前端抠图】
 
-体验网址： [我要抠图](http://bingchacha.top/matting/)
 
 ---
 
